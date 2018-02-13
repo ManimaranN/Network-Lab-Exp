@@ -25,7 +25,7 @@ scanf("%d",&times);
 		 	/* code */
 
 		 }
-	printf("Nothing");
+
 close(fd);
 
 	return 0;
